@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+=======
+.sass-cache
+>>>>>>> abc19573e38aa4192a4415d4b44c0680283b03b8
